@@ -1,13 +1,11 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h1>Docker To-Do List</h1>
+This project focuses on containerizing a full-stack task application using Docker. It includes the creation of configuration files for the front-end, back-end, and a test application to validate communication. Docker images are created and configured using docker-compose.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<h2>Features</h2>
+- Containerization of applications<br>
+- Establishing communication between applications<br>
+- Orchestrating the operation of applications<br>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h2>Contributors:</h2>
+
+I have created the command files, Dockerfiles, and docker-compose.yaml for this project. The remaining files were provided by Trybe.
